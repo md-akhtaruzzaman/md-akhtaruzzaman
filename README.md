@@ -8,7 +8,6 @@ Fredericton, New Brunswick, Canada
 linkedin.com/in/tusharcse
 
 - 💞️ I’m looking to collaborate on ...
-- 
 Innovative and passionate Computer Engineer and Business graduate, enjoy working with IT Solutions, Cloud,Product, and Project. 
 Successfully completed 20+ ICT projects in 11+ years and know well how government,business and technology work together with the ICT environment.
 TECHNICAL EXPERTISE
@@ -18,7 +17,6 @@ TECHNICAL EXPERTISE
 • Team management- Team player, adaptability, balancing, dedication, and project splits & wins
 
 - 👀 I’m interested in ...
-PROJECT ACCOMPLISHMENTS
 • Smart grid optimization with Utility and vendor IT products for different pilot programs and projects
 • Online Data services for the public sector of the Bangladesh Government impacted 13 million customers
 • System design, research, and deployment for health and agricultural-based application with intel fund
@@ -40,10 +38,12 @@ Provide functional guidance for remote Technical Support Specialists
 Participate in DevOps collaboration with Cloud R&D and contribute to SaaS environment and solutiondesign
 Work with customers on migrating existing vault environments too, from, or within the cloud
 Troubleshoot Azure and M-Files related issues affecting the availability or deployment schedules ofcloud vaults and servers
+
+
 Information Technology Specialist
 Énergie NB Power
 Nov 2019 - Dec 2021 (2 years 2 months)
-MD(Mohammad) Akhtaruzzaman - page 1
+
 Canada's Provincial utility : New Brunswick Power Corporation, We work for Research and innovationwith smart grid and smart energy and IoT technology.
 • Perform as Smart Grid operator, Research or DER Specialist and managing team work
 • Operation, Development and Research for Smart Energy Program in different projects across theteam
@@ -53,6 +53,8 @@ Canada's Provincial utility : New Brunswick Power Corporation, We work for Resea
 • Supporting project team for installation, integration, data storage and reporting for stakeholders.
 • Technology: ESP(Energy Services Platforms), Cloud(Azure), Python, MS SQL, API, Power BI,ASP.NET, Node RED,
 • Cloud and system management: Azure App, DB, cost operation, monitoring, and administration
+
+
 Network Security Analyst
 Government of New Brunswick / Gouvernement du Nouveau-Brunswick
 Jul 2019 - Oct 2019 (4 months)
@@ -62,6 +64,8 @@ Jul 2019 - Oct 2019 (4 months)
 • Achieved Risk Assessments and security opinion of a software and system
 • Result to ensure a secure infrastructure and maintain standards, and procedures
 • Managed the Security Incident; phishing, compromised account and other issues
+
+
 IT Consultant
 Government of Bangladesh
 Sep 2015 - May 2019 (3 years 9 months)
@@ -74,6 +78,7 @@ Sep 2015 - May 2019 (3 years 9 months)
 • Fine tuned the Enterprise IT system from Data center from network and servers optimization andefficiency
 • Resolved all IT system related issue with all ministry and countrywide locations and 24/7 basis.
 • Upgraded the modern Data Center to modern technology and Migrated to new DC
+
 System Admin (IT Consultant-Cloud)
 Technology for Social Impact - TSI
 Jan 2015 - Jan 2017 (2 years 1 month)
